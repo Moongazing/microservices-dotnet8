@@ -33,26 +33,6 @@ dotnet build
 
 dotnet run --project YourServiceProject
 
-## Architecture
-
-Describe the architecture of your microservices, including an overview of each service and how they interact with each other using GraphQL and gRPC.
-
-## Services
-
-Outline each microservice in the solution, its responsibilities, and its domain model.
-
-## GraphQL Schemas
-
-Provide examples of the GraphQL schemas for different services.
-
-## gRPC Protocols
-
-Describe the gRPC services and the message types they use for communication.
-
-## Contributing
-
-Guidelines for how developers can contribute to the project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
